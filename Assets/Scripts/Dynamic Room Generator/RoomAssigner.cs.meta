@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 51c63c90ece2c644992f1b72fbab7791
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roomPrefabs: {fileID: 1212595619942798825, guid: 8d340454d12398e49aba0162661c0bd3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
