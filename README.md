@@ -2,7 +2,7 @@
 Rouge-like dungeon like Binding of Issac
 
 Built with:
-James Zhang
-Kevin Ni
-Leif
-Alec
+- James Zhang
+- Kevin Ni
+- Leif
+- Alek
